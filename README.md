@@ -1,3 +1,8 @@
+![OS](https://img.shields.io/badge/OS-Windows%2011-informational?style=flat&logo=Microsoft)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=VisualStudio)
+![IDE](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=CSharp)
+![IDE](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B)
+
 <p align="center">
   <b>Hello I am Simnico99.</b><br>
   I am Canadian.<br>
