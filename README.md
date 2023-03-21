@@ -5,7 +5,7 @@
 
 <p align="center">
   <b>Hello I am Simnico99.</b><br>
-  I am Canadian.<br>
+  I am a Canadian IT Technician.<br>
   I program in all sort of languages<br>
   but I mostly code in C#.
   <br><br>
