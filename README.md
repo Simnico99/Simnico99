@@ -9,7 +9,7 @@
   I program in all sort of languages<br>
   but I mostly code in C#.
   <br><br>
-  <img src="https://github-readme-stats-neon-gamma-70.vercel.app/api?username=Simnico99&theme=transparent"><br/>
-  <img src="https://github-readme-stats-neon-gamma-70.vercel.app/api/top-langs?username=Simnico99&langs_count=20&layout=compact&theme=transparent">
+  <img src="https://github-readme-stats-neon-gamma-70.vercel.app/api?username=Simnico99&theme=transparent&exclude_repo=github-readme-stats"><br/>
+  <img src="https://github-readme-stats-neon-gamma-70.vercel.app/api/top-langs?username=Simnico99&langs_count=20&layout=compact&theme=transparent&exclude_repo=github-readme-stats">
 </p>
 
